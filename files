@@ -1,0 +1,4 @@
+lab50:
+  files:
+    - !include foo.c
+    - !include foo.h
